@@ -1,3 +1,6 @@
+Nesse projeto, relatamos formas de caracterizar jogadores de tênis e suas táticas. Essas táticas podem ser entendidas como o estilo de jogo de cada jogador, suas preferências e tendências na quadra. Através da realização de uma análise estatística de dados agregados e da mineração de sequências de ações em jogos de tênis, somos capazes de encontrar essas tendências e explorá-las. Mostramos táticas de diferentes jogadores e encontramos padrões que se repetem entre eles. Com essas informações, é possível um maior entendimento sobre o tênis como um esporte, os elementos que o compõem e como eles interagem.
+
+Os resultados podem ser vistos no [Relatório Final](POC_Final.pdf)
 
 # License
 
